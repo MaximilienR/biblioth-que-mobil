@@ -1,0 +1,28 @@
+[   {
+     "title": "le seigneur des anneaux",
+     "autor": "J. R. R. Tolkien",
+     "description":"fantasy",
+     "image" : "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2019/03/Gollum_The_Hobbit-e1553637228479.jpg"
+    },
+    {
+        "title": "Divergente",
+        "author": "Veronica Roth",
+        "description": "Science fiction",
+        "image": "https://fr.web.img5.acsta.net/pictures/14/02/07/17/46/287879.jpg"
+    },
+
+    {
+        "title": "Harry Potter",
+        "author": "Jules Verne",
+        "description": "fantasy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCQlOUFuvdqUPCb-0yQiew-BY-kK33ZKDu0w&usqp=CAU"
+    },
+
+    {
+    "title": "Hunger Games",
+    "author": "Suzanne Collins",
+    "description": "Scien fiction",
+    "image": "https://fr.web.img6.acsta.net/pictures/14/12/05/17/25/453259.jpg"
+  },
+
+]
